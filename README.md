@@ -6,17 +6,12 @@ Currently completing my MS in Business Analytics at UT Austin, while working on 
     
 What I work on
     
-📊 Product Analytics
-    Understanding user behavior and product performance through experimentation, metrics, and data analysis.
+📊 Product Analytics: Understanding user behavior and product performance through experimentation, metrics, and data analysis.
     
-📈 Business & Data Analysis
-    Transforming large datasets into insights that guide strategic and operational decisions.
+📈 Business & Data Analysis: Transforming large datasets into insights that guide strategic and operational decisions.
     
-🤖 Machine Learning Applications
-    Building predictive models and analytics pipelines using Python and SQL.
+🤖 Machine Learning Applications: Building predictive models and analytics pipelines using Python and SQL.
     
-📱 Digital Product Development
-    Supporting feature launches, experimentation, and engagement optimization for digital platforms.
+📱 Digital Product Development: Supporting feature launches, experimentation, and engagement optimization for digital platforms.
     
-🔎 Customer & Market Insights
-    Analyzing user feedback and behavioral data to shape product strategy and positioning.
+🔎 Customer & Market Insights: Analyzing user feedback and behavioral data to shape product strategy and positioning.
