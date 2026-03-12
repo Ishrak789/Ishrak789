@@ -1,6 +1,6 @@
 Hi, I'm Ishrak 👋
     
-I work at the intersection of product, data, and business strategy, building data-driven solutions that help companies understand users, improve digital products, and make better business decisions. My background spans fintech, telecom, product analytics, and machine learning, and I enjoy translating complex data into clear product insights and measurable business impact.
+I work at the intersection of product, data, and business strategy, building data-driven solutions that help companies understand users, improve digital products, and make better business decisions. My background spans fintech, telecom, product analytics, and machine learning. I enjoy translating complex data into clear product insights and measurable business impact.
     
 Currently completing my MS in Business Analytics at UT Austin, while working on projects involving AI, machine learning, fraud detection, and product experimentation.
     
